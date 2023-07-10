@@ -8,25 +8,38 @@ This is game build using pygame module in python. There are 2 ships which can fi
 
 # Controls:
 
-Controls of red ship:
-w - up
-s - down
-a- left
-d -right
-q - fire cannon ball from left side
-e - fire cannon ball from right side
+Controls of red ship: 
+
+  w - up
+  
+  s - down
+  
+  a- left
+  
+  d -right
+  
+  q - fire cannon ball from left side
+  
+  e - fire cannon ball from right side
 
 Controls of green ship:
-Up arrow key - up
-down arrow key - down
-left arrow key - left
-right arrow key - right 
-Right Ctrl key - fire cannon ball from left side
-0 - fire cannon ball from right side
+
+  Up arrow key - up
+  
+  down arrow key - down
+  
+  left arrow key - left
+  
+  right arrow key - right 
+  
+  Right Ctrl key - fire cannon ball from left side
+  
+  0 - fire cannon ball from right side
 
 # Tutorial:
 
-The tutorial I used to learn pygame: (https://youtu.be/jO6qQDNa2UY)
+The tutorial I used to learn pygame: 
+  (https://youtu.be/jO6qQDNa2UY)
 
 
 
