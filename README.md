@@ -8,7 +8,7 @@ This is game build using pygame module in python. There are 2 ships which can fi
 
 # Controls:
 
-Controls of red ship: 
+## Controls of red ship: 
 
   w - up
   
@@ -22,7 +22,7 @@ Controls of red ship:
   
   e - fire cannon ball from right side
 
-Controls of green ship:
+## Controls of green ship:
 
   Up arrow key - up
   
